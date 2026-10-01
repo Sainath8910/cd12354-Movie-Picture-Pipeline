@@ -1,3 +1,8 @@
+## Project Links
+
+- **GitHub Repository:** https://github.com/Sainath8910/cd12354-Movie-Picture-Pipeline
+- **Published Knowledge Base:** http://ae5678bb7663d4946a229d6bf747910f-1332317417.us-east-1.elb.amazonaws.com/
+
 # Movie Picture Pipeline
 
 You've been brought on as the DevOps resource for a development team that manages a web application that is a catalog of Movie Picture movies. They're in dire need of automating their development workflows in hopes of accelerating their release cycle. They'd like to use Github Actions to automate testing, building and deploying their applications to an existing Kubernetes cluster.
